@@ -1,6 +1,0 @@
-D:\Projects\Exam-3-11-18\Honeymoon\bin\Debug\Honeymoon.exe.config
-D:\Projects\Exam-3-11-18\Honeymoon\bin\Debug\Honeymoon.exe
-D:\Projects\Exam-3-11-18\Honeymoon\bin\Debug\Honeymoon.pdb
-D:\Projects\Exam-3-11-18\Honeymoon\obj\Debug\Honeymoon.csproj.CoreCompileInputs.cache
-D:\Projects\Exam-3-11-18\Honeymoon\obj\Debug\Honeymoon.exe
-D:\Projects\Exam-3-11-18\Honeymoon\obj\Debug\Honeymoon.pdb

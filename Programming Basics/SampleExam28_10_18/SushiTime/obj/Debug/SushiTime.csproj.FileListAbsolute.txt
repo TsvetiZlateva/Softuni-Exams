@@ -1,7 +1,0 @@
-D:\Projects\SampleExam28_10_18\SushiTime\bin\Debug\SushiTime.exe.config
-D:\Projects\SampleExam28_10_18\SushiTime\bin\Debug\SushiTime.exe
-D:\Projects\SampleExam28_10_18\SushiTime\bin\Debug\SushiTime.pdb
-D:\Projects\SampleExam28_10_18\SushiTime\obj\Debug\SushiTime.csprojAssemblyReference.cache
-D:\Projects\SampleExam28_10_18\SushiTime\obj\Debug\SushiTime.csproj.CoreCompileInputs.cache
-D:\Projects\SampleExam28_10_18\SushiTime\obj\Debug\SushiTime.exe
-D:\Projects\SampleExam28_10_18\SushiTime\obj\Debug\SushiTime.pdb

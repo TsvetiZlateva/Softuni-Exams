@@ -1,7 +1,0 @@
-D:\Projects\Exam-3-11-18\BachelorParty\bin\Debug\BachelorParty.exe.config
-D:\Projects\Exam-3-11-18\BachelorParty\bin\Debug\BachelorParty.exe
-D:\Projects\Exam-3-11-18\BachelorParty\bin\Debug\BachelorParty.pdb
-D:\Projects\Exam-3-11-18\BachelorParty\obj\Debug\BachelorParty.csprojAssemblyReference.cache
-D:\Projects\Exam-3-11-18\BachelorParty\obj\Debug\BachelorParty.csproj.CoreCompileInputs.cache
-D:\Projects\Exam-3-11-18\BachelorParty\obj\Debug\BachelorParty.exe
-D:\Projects\Exam-3-11-18\BachelorParty\obj\Debug\BachelorParty.pdb

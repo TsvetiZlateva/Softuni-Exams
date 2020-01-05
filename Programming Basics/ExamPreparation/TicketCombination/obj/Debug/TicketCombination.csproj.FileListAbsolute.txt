@@ -1,7 +1,0 @@
-D:\Projects\ExamPreparation\TicketCombination\bin\Debug\TicketCombination.exe.config
-D:\Projects\ExamPreparation\TicketCombination\bin\Debug\TicketCombination.exe
-D:\Projects\ExamPreparation\TicketCombination\bin\Debug\TicketCombination.pdb
-D:\Projects\ExamPreparation\TicketCombination\obj\Debug\TicketCombination.csprojAssemblyReference.cache
-D:\Projects\ExamPreparation\TicketCombination\obj\Debug\TicketCombination.csproj.CoreCompileInputs.cache
-D:\Projects\ExamPreparation\TicketCombination\obj\Debug\TicketCombination.exe
-D:\Projects\ExamPreparation\TicketCombination\obj\Debug\TicketCombination.pdb

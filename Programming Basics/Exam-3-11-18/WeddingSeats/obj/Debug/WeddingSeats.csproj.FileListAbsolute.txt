@@ -1,6 +1,0 @@
-D:\Projects\Exam-3-11-18\WeddingSeats\bin\Debug\WeddingSeats.exe.config
-D:\Projects\Exam-3-11-18\WeddingSeats\bin\Debug\WeddingSeats.exe
-D:\Projects\Exam-3-11-18\WeddingSeats\bin\Debug\WeddingSeats.pdb
-D:\Projects\Exam-3-11-18\WeddingSeats\obj\Debug\WeddingSeats.csproj.CoreCompileInputs.cache
-D:\Projects\Exam-3-11-18\WeddingSeats\obj\Debug\WeddingSeats.exe
-D:\Projects\Exam-3-11-18\WeddingSeats\obj\Debug\WeddingSeats.pdb
