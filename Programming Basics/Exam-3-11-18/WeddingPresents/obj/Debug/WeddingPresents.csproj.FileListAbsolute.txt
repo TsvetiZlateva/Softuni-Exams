@@ -1,0 +1,7 @@
+D:\Projects\Exam-3-11-18\WeddingPresents\bin\Debug\WeddingPresents.exe.config
+D:\Projects\Exam-3-11-18\WeddingPresents\bin\Debug\WeddingPresents.exe
+D:\Projects\Exam-3-11-18\WeddingPresents\bin\Debug\WeddingPresents.pdb
+D:\Projects\Exam-3-11-18\WeddingPresents\obj\Debug\WeddingPresents.csprojAssemblyReference.cache
+D:\Projects\Exam-3-11-18\WeddingPresents\obj\Debug\WeddingPresents.csproj.CoreCompileInputs.cache
+D:\Projects\Exam-3-11-18\WeddingPresents\obj\Debug\WeddingPresents.exe
+D:\Projects\Exam-3-11-18\WeddingPresents\obj\Debug\WeddingPresents.pdb

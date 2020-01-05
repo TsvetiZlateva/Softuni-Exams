@@ -1,0 +1,7 @@
+D:\Projects\ExamPreparation\Stadium Income\obj\Debug\Stadium Income.csprojAssemblyReference.cache
+D:\Projects\ExamPreparation\Stadium Income\obj\Debug\Stadium Income.csproj.CoreCompileInputs.cache
+D:\Projects\ExamPreparation\Stadium Income\bin\Debug\Stadium Income.exe.config
+D:\Projects\ExamPreparation\Stadium Income\bin\Debug\Stadium Income.exe
+D:\Projects\ExamPreparation\Stadium Income\bin\Debug\Stadium Income.pdb
+D:\Projects\ExamPreparation\Stadium Income\obj\Debug\Stadium Income.exe
+D:\Projects\ExamPreparation\Stadium Income\obj\Debug\Stadium Income.pdb

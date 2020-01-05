@@ -1,0 +1,7 @@
+D:\Projects\ExamPreparation\Substitute\bin\Debug\Substitute.exe.config
+D:\Projects\ExamPreparation\Substitute\bin\Debug\Substitute.exe
+D:\Projects\ExamPreparation\Substitute\bin\Debug\Substitute.pdb
+D:\Projects\ExamPreparation\Substitute\obj\Debug\Substitute.csprojAssemblyReference.cache
+D:\Projects\ExamPreparation\Substitute\obj\Debug\Substitute.csproj.CoreCompileInputs.cache
+D:\Projects\ExamPreparation\Substitute\obj\Debug\Substitute.exe
+D:\Projects\ExamPreparation\Substitute\obj\Debug\Substitute.pdb

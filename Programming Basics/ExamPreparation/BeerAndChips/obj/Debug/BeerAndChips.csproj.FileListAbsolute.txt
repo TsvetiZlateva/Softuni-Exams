@@ -1,0 +1,13 @@
+D:\Projects\ExamPreparation\BeerAndChips\bin\Debug\BeerAndChips.exe.config
+D:\Projects\ExamPreparation\BeerAndChips\bin\Debug\BeerAndChips.exe
+D:\Projects\ExamPreparation\BeerAndChips\bin\Debug\BeerAndChips.pdb
+D:\Projects\ExamPreparation\BeerAndChips\obj\Debug\BeerAndChips.csprojAssemblyReference.cache
+D:\Projects\ExamPreparation\BeerAndChips\obj\Debug\BeerAndChips.csproj.CoreCompileInputs.cache
+D:\Projects\ExamPreparation\BeerAndChips\obj\Debug\BeerAndChips.exe
+D:\Projects\ExamPreparation\BeerAndChips\obj\Debug\BeerAndChips.pdb
+D:\Projects\Programming Basics\ExamPreparation\BeerAndChips\bin\Debug\BeerAndChips.exe.config
+D:\Projects\Programming Basics\ExamPreparation\BeerAndChips\bin\Debug\BeerAndChips.exe
+D:\Projects\Programming Basics\ExamPreparation\BeerAndChips\bin\Debug\BeerAndChips.pdb
+D:\Projects\Programming Basics\ExamPreparation\BeerAndChips\obj\Debug\BeerAndChips.csprojAssemblyReference.cache
+D:\Projects\Programming Basics\ExamPreparation\BeerAndChips\obj\Debug\BeerAndChips.exe
+D:\Projects\Programming Basics\ExamPreparation\BeerAndChips\obj\Debug\BeerAndChips.pdb

@@ -1,0 +1,7 @@
+D:\Projects\SampleExam28_10_18\Sea Trip\bin\Debug\Sea Trip.exe.config
+D:\Projects\SampleExam28_10_18\Sea Trip\bin\Debug\Sea Trip.exe
+D:\Projects\SampleExam28_10_18\Sea Trip\bin\Debug\Sea Trip.pdb
+D:\Projects\SampleExam28_10_18\Sea Trip\obj\Debug\SeaTrip.csprojAssemblyReference.cache
+D:\Projects\SampleExam28_10_18\Sea Trip\obj\Debug\SeaTrip.csproj.CoreCompileInputs.cache
+D:\Projects\SampleExam28_10_18\Sea Trip\obj\Debug\Sea Trip.exe
+D:\Projects\SampleExam28_10_18\Sea Trip\obj\Debug\Sea Trip.pdb

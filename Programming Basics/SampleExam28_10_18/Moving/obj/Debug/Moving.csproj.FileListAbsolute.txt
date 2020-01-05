@@ -1,0 +1,6 @@
+D:\Projects\SampleExam28_10_18\Moving\bin\Debug\Moving.exe.config
+D:\Projects\SampleExam28_10_18\Moving\bin\Debug\Moving.exe
+D:\Projects\SampleExam28_10_18\Moving\bin\Debug\Moving.pdb
+D:\Projects\SampleExam28_10_18\Moving\obj\Debug\Moving.csproj.CoreCompileInputs.cache
+D:\Projects\SampleExam28_10_18\Moving\obj\Debug\Moving.exe
+D:\Projects\SampleExam28_10_18\Moving\obj\Debug\Moving.pdb

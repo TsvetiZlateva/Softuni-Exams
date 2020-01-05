@@ -1,0 +1,6 @@
+D:\Projects\SampleExam28_10_18\MultiplyTable\bin\Debug\MultiplyTable.exe.config
+D:\Projects\SampleExam28_10_18\MultiplyTable\bin\Debug\MultiplyTable.exe
+D:\Projects\SampleExam28_10_18\MultiplyTable\bin\Debug\MultiplyTable.pdb
+D:\Projects\SampleExam28_10_18\MultiplyTable\obj\Debug\MultiplyTable.csproj.CoreCompileInputs.cache
+D:\Projects\SampleExam28_10_18\MultiplyTable\obj\Debug\MultiplyTable.exe
+D:\Projects\SampleExam28_10_18\MultiplyTable\obj\Debug\MultiplyTable.pdb

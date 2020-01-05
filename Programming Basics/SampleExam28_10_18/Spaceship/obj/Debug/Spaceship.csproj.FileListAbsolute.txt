@@ -1,0 +1,6 @@
+D:\Projects\SampleExam28_10_18\Spaceship\bin\Debug\Spaceship.exe.config
+D:\Projects\SampleExam28_10_18\Spaceship\bin\Debug\Spaceship.exe
+D:\Projects\SampleExam28_10_18\Spaceship\bin\Debug\Spaceship.pdb
+D:\Projects\SampleExam28_10_18\Spaceship\obj\Debug\Spaceship.csproj.CoreCompileInputs.cache
+D:\Projects\SampleExam28_10_18\Spaceship\obj\Debug\Spaceship.exe
+D:\Projects\SampleExam28_10_18\Spaceship\obj\Debug\Spaceship.pdb
