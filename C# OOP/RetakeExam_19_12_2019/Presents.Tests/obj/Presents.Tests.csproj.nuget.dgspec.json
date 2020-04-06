@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\C# OOP\\RetakeExam_19_12_2019\\Presents.Tests\\Presents.Tests.csproj": {}
+    "D:\\GitHub\\Softuni-Exams\\C# OOP\\RetakeExam_19_12_2019\\Presents.Tests\\Presents.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\C# OOP\\RetakeExam_19_12_2019\\Presents.Tests\\Presents.Tests.csproj": {
+    "D:\\GitHub\\Softuni-Exams\\C# OOP\\RetakeExam_19_12_2019\\Presents.Tests\\Presents.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\C# OOP\\RetakeExam_19_12_2019\\Presents.Tests\\Presents.Tests.csproj",
+        "projectUniqueName": "D:\\GitHub\\Softuni-Exams\\C# OOP\\RetakeExam_19_12_2019\\Presents.Tests\\Presents.Tests.csproj",
         "projectName": "Presents.Tests",
-        "projectPath": "D:\\Projects\\C# OOP\\RetakeExam_19_12_2019\\Presents.Tests\\Presents.Tests.csproj",
+        "projectPath": "D:\\GitHub\\Softuni-Exams\\C# OOP\\RetakeExam_19_12_2019\\Presents.Tests\\Presents.Tests.csproj",
         "packagesPath": "C:\\Users\\Cveti\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\C# OOP\\RetakeExam_19_12_2019\\Presents.Tests\\obj\\",
+        "outputPath": "D:\\GitHub\\Softuni-Exams\\C# OOP\\RetakeExam_19_12_2019\\Presents.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\Projects\\C# OOP\\RetakeExam_19_12_2019\\Presents\\Presents.csproj": {
-                "projectPath": "D:\\Projects\\C# OOP\\RetakeExam_19_12_2019\\Presents\\Presents.csproj"
+              "D:\\GitHub\\Softuni-Exams\\C# OOP\\RetakeExam_19_12_2019\\Presents\\Presents.csproj": {
+                "projectPath": "D:\\GitHub\\Softuni-Exams\\C# OOP\\RetakeExam_19_12_2019\\Presents\\Presents.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "D:\\Projects\\C# OOP\\RetakeExam_19_12_2019\\Presents\\Presents.csproj": {
+    "D:\\GitHub\\Softuni-Exams\\C# OOP\\RetakeExam_19_12_2019\\Presents\\Presents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\C# OOP\\RetakeExam_19_12_2019\\Presents\\Presents.csproj",
+        "projectUniqueName": "D:\\GitHub\\Softuni-Exams\\C# OOP\\RetakeExam_19_12_2019\\Presents\\Presents.csproj",
         "projectName": "Presents",
-        "projectPath": "D:\\Projects\\C# OOP\\RetakeExam_19_12_2019\\Presents\\Presents.csproj",
+        "projectPath": "D:\\GitHub\\Softuni-Exams\\C# OOP\\RetakeExam_19_12_2019\\Presents\\Presents.csproj",
         "packagesPath": "C:\\Users\\Cveti\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\C# OOP\\RetakeExam_19_12_2019\\Presents\\obj\\",
+        "outputPath": "D:\\GitHub\\Softuni-Exams\\C# OOP\\RetakeExam_19_12_2019\\Presents\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

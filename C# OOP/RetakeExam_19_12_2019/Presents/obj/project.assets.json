@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\C# OOP\\RetakeExam_19_12_2019\\Presents\\Presents.csproj",
+      "projectUniqueName": "D:\\GitHub\\Softuni-Exams\\C# OOP\\RetakeExam_19_12_2019\\Presents\\Presents.csproj",
       "projectName": "Presents",
-      "projectPath": "D:\\Projects\\C# OOP\\RetakeExam_19_12_2019\\Presents\\Presents.csproj",
+      "projectPath": "D:\\GitHub\\Softuni-Exams\\C# OOP\\RetakeExam_19_12_2019\\Presents\\Presents.csproj",
       "packagesPath": "C:\\Users\\Cveti\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\C# OOP\\RetakeExam_19_12_2019\\Presents\\obj\\",
+      "outputPath": "D:\\GitHub\\Softuni-Exams\\C# OOP\\RetakeExam_19_12_2019\\Presents\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
