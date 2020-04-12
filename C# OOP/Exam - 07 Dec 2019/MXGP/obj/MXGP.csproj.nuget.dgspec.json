@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\C# OOP\\Exam - 07 Dec 2019\\MXGP\\MXGP.csproj": {}
+    "D:\\GitHub\\Softuni-Exams\\C# OOP\\Exam - 07 Dec 2019\\MXGP\\MXGP.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\C# OOP\\Exam - 07 Dec 2019\\MXGP\\MXGP.csproj": {
+    "D:\\GitHub\\Softuni-Exams\\C# OOP\\Exam - 07 Dec 2019\\MXGP\\MXGP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\C# OOP\\Exam - 07 Dec 2019\\MXGP\\MXGP.csproj",
+        "projectUniqueName": "D:\\GitHub\\Softuni-Exams\\C# OOP\\Exam - 07 Dec 2019\\MXGP\\MXGP.csproj",
         "projectName": "MXGP",
-        "projectPath": "D:\\Projects\\C# OOP\\Exam - 07 Dec 2019\\MXGP\\MXGP.csproj",
+        "projectPath": "D:\\GitHub\\Softuni-Exams\\C# OOP\\Exam - 07 Dec 2019\\MXGP\\MXGP.csproj",
         "packagesPath": "C:\\Users\\Cveti\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\C# OOP\\Exam - 07 Dec 2019\\MXGP\\obj\\",
+        "outputPath": "D:\\GitHub\\Softuni-Exams\\C# OOP\\Exam - 07 Dec 2019\\MXGP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
