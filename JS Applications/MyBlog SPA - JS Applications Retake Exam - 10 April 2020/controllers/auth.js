@@ -1,7 +1,6 @@
 // ползва се при регистрация и логване
 export function saveUserInfo(userInfo){
     sessionStorage.setItem('user', userInfo);
-    //sessionStorage.setItem('events', events);
 }
 
 //сетва се при get на view-тата

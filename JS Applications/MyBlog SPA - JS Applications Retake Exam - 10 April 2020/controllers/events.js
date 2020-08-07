@@ -43,15 +43,18 @@ export function getDetails(ctx){
 
 export function getEdit(ctx){
     setHeader(ctx);
+    console.log(ctx);
     const id = ctx.params.id;
     console.log(ctx.params);
     get(id)
     .then( res=>{
+        console.log(res);
         const event = {...res.data(), id : res.id};
         ctx.event = event;
         ctx.loadPartials(commonPartial).partial('./view/events/edit.hbs');
     })
     .catch(e=>console.log(e));
+  
 }
 
 export function postEdit(ctx){

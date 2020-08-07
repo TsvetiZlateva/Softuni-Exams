@@ -7,6 +7,7 @@ export function getHome(ctx){
     getAll()
     .then(res => {
         //console.log(res.docs[0].data()); // разглежда един обект от масива с events
+        console.log(res);
         const articles = res.docs.map(x => x = { ...x.data(), id: x.id});
         ctx.events = articles;
         //console.log(res.docs.length);
@@ -14,8 +15,8 @@ export function getHome(ctx){
         const authorsArticles = ctx.events.filter(a=>a.creator === sessionStorage.user);
         ctx.isAuthor = authorsArticles.length > 0;
         ctx.authorsArticles = authorsArticles;
-        console.log(ctx);
-        console.log(ctx.events);
+        //console.log(ctx);
+        //console.log(ctx.events);
         //setCategory(articles);
         ctx.loadPartials(commonPartial).partial('./view/home.hbs');
     })

@@ -1,0 +1,20 @@
+<!-- Posts -->
+    <section class="second-section">
+      <h3>Posts</h3>
+      <hr>
+      <div class="posts-row">
+        {{#if isAuthor}}
+        {{#each authorsArticles}}
+        <!-- Post -->
+        <article class="post">
+          <h1>{{title}}</h1>
+           <h2><span>{{category}}</span></h2>
+            <p>{{content}}</p>
+            <a href="#/close/{{id}}" id="delete-button">Delete</a>
+            <a href="#/details/{{id}}" id="details-button">Details</a>
+            <a href="#/edit/{{id}}" id="edit-button">Edit</a>
+        </article>
+        {{/each}}
+        {{/if}}
+      </div>
+    </section>
