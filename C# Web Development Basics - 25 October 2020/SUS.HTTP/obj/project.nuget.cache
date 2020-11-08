@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tVmtNx9S0k7FZiLIiQOkOvurYAldI4xI23SPXGHL7dHwsq/1Y+nUIT0m9y6N42egSXyCFN8OqFGtLoiwHbfnJA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\C# Web Development Basics - 25 October 2020\\SUS.HTTP\\SUS.HTTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
